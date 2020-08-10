@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "flat": "^4.1.0",
+    "flat": "^5.0.2",
     "lodash.merge": "^4.6.1",
     "lodash.set": "^4.3.2",
     "ramda": "^0.25.0",
